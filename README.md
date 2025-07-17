@@ -24,10 +24,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
-## 📊 Linguagens mais usadas
-
-![Linguagens mais usadas](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','HTML','CSS','C#'],datasets:[{data:[50,20,20,10],backgroundColor:['#f89820','#e34c26','#264de4','#178600']}]},options:{plugins:{legend:{position:'bottom'}}}})
-
-
