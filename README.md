@@ -24,3 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+###
+
+## 📊 Linguagens mais usadas
+
+![Gráfico de linguagens](https://quickchart.io/chart/render/zm-e3cfef48-37c1-4cfc-9107-c4b92b304b2c)
+
