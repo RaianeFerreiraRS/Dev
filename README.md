@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨TI no IFBA<br>📚 Cursando ADS e SI <br>🎯 Extracurriculares: Monitora IFBA | Voluntariado WCD | Treinamento em Consultoria SAP | Curso EF(English first)<br>🎲 Hobbies: ler</p>
+<p align="left">✨TI no IFBA<br>📚 Cursando ADS e SI <br>🎯 Extracurriculares: Monitoria IFBA | Voluntariado WCD | Treinamento em Consultoria SAP | Curso EF(English first)<br>🎲 Hobbies: ler</p>
 
 ###
 
