@@ -28,5 +28,6 @@
 
 ## 📊 Linguagens mais usadas
 
-![Gráfico de linguagens](https://quickchart.io/chart/render/zm-e3cfef48-37c1-4cfc-9107-c4b92b304b2c)
+![Linguagens mais usadas](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Java','HTML','CSS','C#'],datasets:[{data:[50,20,20,10],backgroundColor:['#f89820','#e34c26','#264de4','#178600']}]},options:{plugins:{legend:{position:'bottom'}}}})
+
 
