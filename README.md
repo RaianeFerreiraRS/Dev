@@ -26,4 +26,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" alt="Pacman contribution graph">
+![Pacman contribution graph](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg)
