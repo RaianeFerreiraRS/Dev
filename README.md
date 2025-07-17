@@ -26,4 +26,5 @@
 
 ###
 
-![Pacman contribution graph](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg)
+![Pacman contribution graph - dark](https://github.com/maurodesouza/maurodesouza/blob/output/pacman-contribution-graph-dark.svg)
+
