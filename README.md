@@ -1,4 +1,4 @@
-<h2 align="left"> 👋 Sou Raiane, desenvolvedora Java iniciante! </h2>
+<h2 align="left"> 👋 Sou Raiane, desenvolvedora web iniciante! </h2>
 
 ###
 
